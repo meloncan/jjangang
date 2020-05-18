@@ -4,6 +4,7 @@
 #include<string>
 using namespace std;
 
+// C++에서 정적 멤버란 클래스에는 속하지만, 객체 별로 할당되지 않고 클래스의 모든 객체가 공유하는 멤버를 의미합니다.
 
 class Student
 {

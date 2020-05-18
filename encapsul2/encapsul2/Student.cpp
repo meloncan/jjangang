@@ -1,7 +1,7 @@
 #include "Student.h"
 
 //1. 멤버 필드
-int Student::last_pn; // 가장 최근에 부여한 주민 번호
+int Student::last_pn = 10; // 가장 최근에 부여한 주민 번호
 
 const int Student::def_iq = 100;
 const int Student::min_iq = 0;
