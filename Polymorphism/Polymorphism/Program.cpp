@@ -15,7 +15,7 @@ using namespace std;
 class Musician
 {
 public:
-	virtual void Play()
+	virtual void Play() // virtual을 사용해서 실제 참조하고 있는 개체의 메서드를 수행하도록 한다.
 	{
 		cout << "연주하다" << endl;
 	}
