@@ -19,7 +19,7 @@
 #define interface struct
 using namespace std;
 
-// 구조체는 디폴디 가시성이 public
+// 구조체는 디폴트 가시성이 public
 interface IPlay
 {
 	virtual void Play() = 0;
