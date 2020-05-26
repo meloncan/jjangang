@@ -22,6 +22,7 @@
     <ProjectGuid>{B68C17EF-5CA2-4997-B8B8-1D809723B713}</ProjectGuid>
     <RootNamespace>My42강상속과다형성최종실습_학생</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>42LC 상속과 다형성 최종 실습_학생</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
